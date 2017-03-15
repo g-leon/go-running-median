@@ -1,0 +1,16 @@
+hash: 70238649bd502e74c2daa2709a0744ec92b87559c0c779b1000776d929d61c06
+updated: 2017-02-22T17:08:22.510681144+02:00
+imports:
+- name: github.com/ancientlore/go-avltree
+  version: 4ba4b949e04ae520ba87de82bb82d8f3a6be7e11
+- name: github.com/pkg/errors
+  version: 248dadf4e9068a0b3e79f02ed0a610d935de5302
+- name: github.com/zfjagann/golang-ring
+  version: 17637388c9f6665e2f475e4beec439e6fc19fee9
+- name: https://github.com/ancientlore/go-avltree
+  version: ""
+- name: https://github.com/zfjagann/golang-ring
+  version: ""
+- name: ttps://godoc.org/github.com/pkg/errors
+  version: ""
+devImports: []

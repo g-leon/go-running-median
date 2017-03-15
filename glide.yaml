@@ -1,0 +1,8 @@
+package: go-measurements-median
+import:
+- package: https://github.com/ancientlore/go-avltree
+- package: github.com/ancientlore/go-avltree
+- package: https://github.com/zfjagann/golang-ring
+- package: github.com/zfjagann/golang-ring
+- package: ttps://godoc.org/github.com/pkg/errors
+- package: github.com/pkg/errors
